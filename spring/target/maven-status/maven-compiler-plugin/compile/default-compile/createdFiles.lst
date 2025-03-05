@@ -1,0 +1,6 @@
+test\AutowiringConfig.class
+repository\ProductRepo.class
+test\ProductTest.class
+model\Product.class
+service\ProductService.class
+io\cucumber\spring\App.class
